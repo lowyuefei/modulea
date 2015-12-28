@@ -1,0 +1,3 @@
+[submodule "moduleb"]
+	path = moduleb
+	url = https://github.com/lowyuefei/moduleb.git
